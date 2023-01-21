@@ -21,8 +21,8 @@ As a user of the application,you will be able to :
 3. Open the index file from the zipped file with any browser.
 
 ## Live Link
-Backend link for this project is:
-Frontend link for this project is: https://onshop-app-client-buomxpki2-felix3ondullah.vercel.app/
+1. Backend link for this project is:  https://onshop-qdh1.onrender.com
+2. Frontend link for this project is: https://onshop-app-client-buomxpki2-felix3ondullah.vercel.app/
 
 ## Technology Used
 1. Rails - For backend
