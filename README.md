@@ -22,7 +22,7 @@ As a user of the application,you will be able to :
 
 ## Live Link
 1. Backend link for this project is:  https://onshop-qdh1.onrender.com
-2. Frontend link for this project is: https://onshop-app-client-buomxpki2-felix3ondullah.vercel.app/
+2. Frontend link for this project is: https://onshop-app-client.vercel.app/
 
 ## Technology Used
 1. Rails - For backend
@@ -39,9 +39,9 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Authors Info
-1. Collins Mokaya: https://github.com/philipNgungi037
-2. Felix Ondullah: https://github.com/Felix3Ondullah
-3. Philip Ngugi:  https://github.com/philipNgungi037
-4. Allan Kimurgor: https://github.com/Kimurgor02
+1. [Collins Mokaya](https://github.com/collinsmokaya28)
+2. [Felix Ondullah](https://github.com/Felix3Ondullah)
+3. [Philip Ngugi](https://github.com/philipNgungi037)
+4. [Allan Kimurgor](https://github.com/Kimurgor02)
 
 ### We got Backend hard but Simple when we were coding and we loved it.
