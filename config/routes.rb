@@ -1,10 +1,18 @@
 Rails.application.routes.draw do
-  resources :product_searches
-  resources :user_searches
-  resources :users
-  resources :products
-  # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
+  get '/health_check', to: proc { [200, {}, ['success']] }
+  #user routes
+  resources :users, only: [:create]
+  post '/login', to: 'auth#create'
+  get '/profile', to: 'users#profile'
+  # post '/search', to: 'product_searches#create'
 
-  # Defines the root path route ("/")
-  # root "articles#index"
+
+
+  #product search endpoint
+  post '/search', to: 'product_searches#create'
+
+
+  #user search history endpoint
+  get'/history', to: 'product_searches#history'
+
 end
